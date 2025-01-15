@@ -1,5 +1,6 @@
 cd $HOME/AKMOD_FPS
 chmod +x unlock
+chmod +x setup
 chmod +x menu
 chmod +x repak
-./menu
+./setup
