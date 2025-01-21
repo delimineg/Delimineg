@@ -4,7 +4,7 @@
 ![Result](/unlock120fps.jpg)
 ## Installing
 # 1. Install Termux 
-https://t.me/akmodtool/405
+https://t.me/markaRESPEC
 # 2. COMMAND SETUP
 ```
 rm -rf $HOME/AKMOD_FPS && pkg update -y && pkg upgrade -y && pkg install git -y && termux-setup-storage && git clone https://github.com/nanamod96/AKMOD_FPS.git && cd AKMOD_FPS && chmod +x setup && ./setup
